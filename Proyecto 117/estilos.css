@@ -1,0 +1,28 @@
+body{
+    background: linear-gradient(rgb(209, 104, 122) 60%, rgb(143, 143, 227));
+}   
+    
+h1 {
+    color: rgb(225, 130, 52); 
+    background-color: rgb (222, 148, 240);
+}
+
+#show_sketch{ 
+    float: right;
+}
+
+p{
+    padding-top: 10px;
+     font-size: 25px;
+}
+
+#temporizador {
+    color: rgb(80, 240, 17);
+    font-size: 25px;
+    float: right;
+}
+
+#puntuacion {
+    color: rgb(233, 240, 17);
+    font-size: 25px;
+}
